@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+html{
+background: url("assets/river.jpg");	
+}
+ body {
+	 width: 761px;
+	margin: 1.5em auto;
+      text-align: center;
+      background-color:white;
+	  opacity: 0.6;
+      background-position: center;
+      color: black;
+      font-family: helvetica;
+    }
+	
+
+header {
+      text-align: center;
+      background: black;
+      background-size: cover;
+      color: white;
+	  padding: 3px 3px 3px 3px;
+}
+p{
+width: 700px;	
+margin:auto;
+}
+
+h1{
+font-family: 'Dancing Script', cursive;	
+font-size: 75px;
+text-decoration:underline;	
+}
+h2{
+font-family: 'Dancing Script', cursive;	
+}
+	
+
+  li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+	  color:white;
+  }
+a{
+color:white;
+text-decoration:none;
+}
+a:hover{
+color: #A0A0A0;
+}

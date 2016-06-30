@@ -1,0 +1,59 @@
+
+@charset "utf-8";
+/* CSS Document */
+body{
+font-family: helvetica;	
+
+}
+header {
+      text-align:center;
+      background: url("assets/river.jpg");
+      background-size: cover;
+      color: white;
+	  height: 250px;
+    }
+    a {
+      color: white;
+	  text-decoration:none;
+	}
+	a:hover{
+	color: #A0A0A0;
+	}
+	  
+    img {
+      margin: 40px 0px 0px 0px;
+      border: 7px solid white;
+      border-radius: 20px;
+    }
+    ul {
+      padding: 10px;
+      background: rgba(0,0,0,0.5);
+    }
+    li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+    }
+	h2{
+	font-family: 'Dancing Script', cursive;
+	margin: 0 auto;	
+	}
+	h1{
+	font-family: 'Dancing Script', cursive;	
+	font-size: 75px;
+	text-decoration:underline;	
+	}
+    article {
+      max-width: 761px;
+      padding: 20px;
+      margin: 0 auto;
+    }
+	.right{
+	float:right;	
+	}
+	.left{
+	float:left;	
+	}
+    @media (max-width: 500px) {
+   
+      }
+
