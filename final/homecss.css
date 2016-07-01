@@ -50,3 +50,18 @@ text-decoration:none;
 a:hover{
 color: #A0A0A0;
 }
+footer {
+	background-color:black;
+	color:#FFFFFF;
+	opacity:0.6;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 14px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+	.right{
+	float:right;	
+	}
+	.left{
+	float:left;	
+	}
